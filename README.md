@@ -49,17 +49,6 @@ Here's how the game looks : <br/>
 - Enhance UI/UX with better styling<br/>
 
 
-## Contributing 
-
-Contributions are welcome! If you'd like to contribute, please follow these steps:<br/>
-
-1. Fork the repository.<br/>
-
-2. Create a new branch for your feature or bugfix.<br/>
-
-3. Commit your changes and push them to your fork.<br/>
-
-4. Submit a pull request.<br/>
 
 ## License
 
