@@ -1,4 +1,4 @@
-# Tic Tac Toe Game 🎮
+# Tic Tac Toe Game 
 
 Welcome to the Tic Tac Toe game! This project is a simple implementation of the classic game using JavaScript, HTML, and CSS.
 This project allows two players to play Tic Tac Toe in the browser.
@@ -49,7 +49,7 @@ Here's how the game looks : <br/>
 - Enhance UI/UX with better styling<br/>
 
 
-## Contributing 🤝
+## Contributing 
 
 Contributions are welcome! If you'd like to contribute, please follow these steps:<br/>
 
@@ -60,6 +60,10 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 3. Commit your changes and push them to your fork.<br/>
 
 4. Submit a pull request.<br/>
+
+## License
+
+This project is licensed under the MIT License. Feel free to use, modify, and share.
  
 
 
