@@ -30,12 +30,12 @@ https://github.com/Drushti008/Tic-Tac-Toe.git
 
 Here's how the game looks : <br/>
 ### Let's Play 
-![ss1](ss1.png)
+![ss1](Screenshots/ss1.png)
 ### Game Interface
-![ss2](ss2.png)
-![ss3](ss3.png)
+![ss2](Screenshots/ss2.png)
+![ss3](Screenshots/ss3.png)
 ### Result Interface
-![ss4](ss4.png)
+![ss4](Screenshots/ss4.png)
 
 
 
