@@ -26,6 +26,19 @@ https://github.com/Drushti008/Tic-Tac-Toe.git
      - Player 1 : O<br/>
      - Player 2 : X<br/>
 
+## Screenshots
+
+Here's how the game looks : <br/>
+### Let's Play 
+![ss1](ss1.png)
+### Game Interface
+![ss2](ss2.png)
+![ss3](ss3.png)
+### Result Interface
+![ss4](ss4.png)
+
+
+
 
 
 
