@@ -19,8 +19,9 @@ This project allows two players to play Tic Tac Toe in the browser.
 ## How to Play
 
 Clone the repository : <br/>
+```bash
 https://github.com/Drushti008/Tic-Tac-Toe.git
-<br/>
+```
 1. Open the index.html file in your browser.<br/>
 2. Start playing with your friend!<br/>
      - Player 1 : O<br/>
